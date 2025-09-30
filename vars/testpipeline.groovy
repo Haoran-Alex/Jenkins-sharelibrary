@@ -1,5 +1,5 @@
 
-import vars.pipelineUtil
+
 
 def call(runtimeVars){
         if(runtimeVars.compileByNodejs){
